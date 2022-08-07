@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Test For State
+Test For States
 """
 import unittest
 import datetime
