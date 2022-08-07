@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defines unittests for models/engine/file_storage.py.
+"""Define unittests for models/engine/file_storage.py.
 
 Unittest classes:
     TestFileStorage_instantiation
