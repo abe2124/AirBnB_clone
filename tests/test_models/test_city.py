@@ -6,7 +6,7 @@ import unittest
 import datetime
 import os
 import json
-from models.engine.file_storage import File Storage
+from models.engine.file_storage import FileStorage
 from models.city import City
 storage = FileStorage()
 

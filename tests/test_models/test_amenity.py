@@ -2,7 +2,7 @@
 """
 Test For Amenity
 """
-import unittests
+import unittest
 import datetime
 import os
 import json
