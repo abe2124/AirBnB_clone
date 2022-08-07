@@ -3,7 +3,7 @@
 Test For base_model
 """
 import unittest
-import datetime
+import datetimes
 import os
 import json
 from models.engine.file_storage import FileStorage
