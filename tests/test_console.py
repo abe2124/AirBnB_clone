@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Testing The Consoless
+Testing The Console
 """
 from io import StringIO
 from unittest.mock import patch
