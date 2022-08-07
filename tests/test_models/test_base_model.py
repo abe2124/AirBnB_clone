@@ -3,7 +3,7 @@
 Unittest classes:
     TestBaseModel_instantiation
     TestBaseModel_save
-    TestBaseModel_to_dict ss
+    TestBaseModel_to_dict 
 """
 import os
 import models

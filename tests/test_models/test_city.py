@@ -3,7 +3,7 @@
 Unittest classes:
     TestCity_instantiation
     TestCity_save
-    TestCity_to_dict ss
+    TestCity_to_dict 
 """
 import os
 import models

@@ -3,7 +3,7 @@
 Unittest classes:
     TestAmenity_instantiation
     TestAmenity_save
-    TestAmenity_to_dict ss
+    TestAmenity_to_dict 
 """
 import os
 import models
